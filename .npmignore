@@ -1,0 +1,9 @@
+bower_components/
+node_modules/
+npm-debug.log
+.sass-cache
+dist
+.vscode
+.idea/
+**/.DS_Store
+
